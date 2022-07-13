@@ -1,6 +1,6 @@
 ### Hello world!  </>
 
-M name is Arait! I’m a FullStack Developer living in Mexico City experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. As a recent Generation Bootcamp graduate, I’m looking to expand my portfolio and collaborate on something new.
+My name is Arait! I’m a FullStack Developer living in Mexico City experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. As a recent Generation Bootcamp graduate, I’m looking to expand my portfolio and collaborate on something new.
 
 💻 Java Developer Jr. at Gamexpress
 
