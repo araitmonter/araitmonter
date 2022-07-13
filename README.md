@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**araitmonter/araitmonter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- Languages & Frameworks
+
+- Tools I use
+
+- Music
+
+![My Image]()![github-contribution-grid-snake](https://user-images.githubusercontent.com/29875899/178776648-b65a890c-fecc-45f8-8d7a-0af60418b46d.svg)
+
+
