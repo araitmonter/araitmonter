@@ -1,16 +1,20 @@
-### Hello world!  </>
+
+## Hello world! </>
+
 
 My name is Arait! I’m a FullStack Developer living in Mexico City experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. As a recent Generation Bootcamp graduate, I’m looking to expand my portfolio and collaborate on something new.
 
-💻 Java Developer Jr. at Gamexpress
+💻 Java Developer Jr. at [Gamexpress](https://www.linkedin.com/company/gamexpressvg/?originalSubdomain=mx)
 
 👨‍💻 Currently enroll in BSc. in Maths Applied and Computer Science at UNAM.
 
-Software developer volunteer at Mexican Studies Center of  Witwatersrand University, Johannesburg, South Africa.
+💻Software Developer Volunteer at Mexican Studies Center of  Witwatersrand University, Johannesburg, South Africa.
 
-📄 Bootcamp Java Full Stack Jr. - Generation Mx.
+📄 Bootcamp Java Full Stack Jr. at Generation Mx.
+
 
 - Languages & Frameworks
+
 
 - Tools I use
 
@@ -19,6 +23,7 @@ Software developer volunteer at Mexican Studies Center of  Witwatersrand Univers
 
 
 - 📫 Let's connect!: LinkedIn, Instagram
+
 
 - You can visit my portfolio at ...
 
