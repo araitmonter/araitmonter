@@ -18,8 +18,7 @@ My name is Arait! I’m a FullStack Developer living in Mexico City experienced 
 
 - Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://skillicons.dev)  
