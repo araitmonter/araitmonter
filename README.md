@@ -13,28 +13,32 @@ My name is Arait! I’m a FullStack Developer living in Mexico City experienced 
 📄 Bootcamp Java Full Stack Jr. at [Generation](https://www.generation.org/)
 
 
+***
+
 
 - Languages & Frameworks
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,react,cpp&theme=light)](https://skillicons.dev)
 
 
 - Tools I use
 
+[![My Skills](https://skillicons.dev/icons?i=github,git,figma,heroku,latex,vscode,linux&theme=light)](https://skillicons.dev)
 
 
 
 :pencil2: Studying Springboot, SQL, AWS and Python.
 
 
-
+***
 
 - 📫 Let's connect!: 
-LinkedIn, Instagram
 
-atom
+[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram)](https://skillicons.dev)
 
-:green_heart: You can visit my portfolio at ...
+
+
+:green_heart: You can visit my portfolio at ... (coming soon)
 
 
 
