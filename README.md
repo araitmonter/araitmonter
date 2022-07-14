@@ -32,8 +32,7 @@ My name is Arait! I’m a FullStack Developer living in Mexico City experienced 
 - 📫 Let's connect!: 
 LinkedIn, Instagram
 
-
-
+atom
 
 :green_heart: You can visit my portfolio at ...
 
