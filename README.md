@@ -2,13 +2,11 @@
 ## Hello world! </>
 
 
-My name is Arait! I’m a FullStack Developer living in Mexico City experienced in building responsive, accessible websites and web applications using Java, JavaScript, Bootstrap, Springboot and React. As a recent Generation Bootcamp graduate, I’m looking to expand my portfolio and collaborate on something new. :star2:
+My name is Arait! I’m a Data Governance Specialist living in Mexico. I’m looking to expand my portfolio and collaborate on something new. :star2:
 
-💻 Java Developer Jr. at [Gamexpress](https://www.linkedin.com/company/gamexpressvg/?originalSubdomain=mx)
+💻 Data Governance Specialist. at [Grupo Xcaret](https://www.linkedin.com/company/experiencias-xcaret/posts/?feedView=all)
 
-:open_book: Currently enroll in BSc. Applied Math & Computer Science at UNAM.
-
-:woman_technologist: Software Developer Volunteer at [Centro de Estudios Mexicanos](https://en.sudafrica.unam.mx/) of  Witwatersrand University, Johannesburg, South Africa.
+ BSc. Applied Mathematics & Computer Science at UNAM.
 
 📄 Bootcamp Java Full Stack Jr. at [Generation](https://www.generation.org/)
 
