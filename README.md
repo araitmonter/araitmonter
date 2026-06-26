@@ -1,31 +1,33 @@
+### Data Governance | Analytics | Applied Mathematics | AI & Business Strategy
 
-## Hello world! </>
+I am an Applied Mathematician currently pursuing a Master's degree at [Technische Universität Dresden](https://tu-dresden.de) 🇩🇪 
 
+## What I work on
 
-My name is Arait! I’m a Data Governance Specialist living in Mexico. I’m looking to expand my portfolio and collaborate on something new. :star2:
-
-💻 Data Governance Specialist. at [Grupo Xcaret](https://www.linkedin.com/company/experiencias-xcaret/posts/?feedView=all)
-
- BSc. Applied Mathematics & Computer Science at UNAM.
-
-📄 Bootcamp Java Full Stack Jr. at [Generation](https://www.generation.org/)
-
-
-
-
-
-- Languages & Frameworks
-
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
-
-
-- Tools I use
-
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com)  [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com)  [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://figma.com)  [![My Skills](https://skillicons.dev/icons?i=heroku&theme=light)](https://heroku.com)  [![My Skills](https://skillicons.dev/icons?i=latex&theme=light)](https://es.overleaf.com)  [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://https://code.visualstudio.com)  [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://linux.org)
+- Data Strategy, AI Governance & Decision Intelligence
+- Enterprise Data Governance & Data Quality
+- Metadata, Data Catalogs, Lineage & Business Glossaries
+- Machine Learning, Statistical Modeling & Quantitative Research
+- BI, Analytics Strategy & Executive Decision Support
+- Applied Mathematics, Optimization & Scientific Computing
+---
 
 
 
-:pencil2: Studying Springboot, SQL, AWS and Python.
+
+
+## Technical Stack
+
+### Languages & Programming
+[![Languages](https://skillicons.dev/icons?i=python,r,java,js,html,css,cpp&theme=dark)](https://skillicons.dev)
+
+### Data, Analytics & Scientific Computing
+[![Data & Analytics](https://skillicons.dev/icons?i=postgres,mysql,sqlite,sklearn,tensorflow,pytorch,latex&theme=dark)](https://skillicons.dev)
+
+### Cloud, Engineering & Tools
+[![Tools](https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,linux,bash,docker&theme=dark)](https://skillicons.dev)
+---
+
 
 
 
@@ -36,8 +38,6 @@ My name is Arait! I’m a Data Governance Specialist living in Mexico. I’m loo
 
 
 
-
-:green_heart: You can visit my portfolio at ... (coming soon)
 
 
 
