@@ -66,8 +66,7 @@ Data Stewardship · Data Ownership · Data Maturity Assessment · DAMA-DMBOK
 
 - 📫 Let's connect!: 
 
-     [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arait-monter)  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/araitmonter)
-
+     [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arait-monter)  
 
 
 
