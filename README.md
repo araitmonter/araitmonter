@@ -1,4 +1,4 @@
-##Hello World </>
+## Hello World </>
 
 I am an Applied Mathematician currently pursuing a Master's degree at [Technische Universität Dresden](https://tu-dresden.de) 🇩🇪 
 
@@ -29,7 +29,7 @@ Business Analytics · Research Analytics · Quantitative Decision Support
 ---
 
 ### Cloud, Engineering & Developer Tools
-[![Engineering Tools](https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,linux,bash,docker&theme=dark&perline=8)](https://skillicons.dev)
+[![Engineering Tools](https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,docker&theme=dark&perline=8)](https://skillicons.dev)
 
 Cloud Foundations · Version Control · Linux Environments · Reproducible Workflows  
 Technical Documentation · Analytical Prototyping · Collaborative Development
